@@ -1,0 +1,50 @@
+Import Export Accounts 1.0
+© Copyright 2013 William Smith
+bill@officeformachelp.com
+
+
+Copyright and Creative Commons license
+
+Except where otherwise noted, this work is licensed under http://creativecommons.org/licenses/by/3.0/.
+
+This script may be freely modified for personal or commercial purposes but may not be republished for profit without prior consent.
+
+If you find this script useful or have ideas for improving it, please let me know. It is written for Outlook for Mac 2011.
+
+
+The need for Import Export Accounts
+
+Import Export Accounts exports account settings for all accounts in the current Outlook identity to a plist file. The script can also import one or more account setups from the same file. Use it to back up settings in case an account must be deleted or recreated or use it to transfer account settings quickly between Outlook identities.
+
+The Import Export Accounts script does the following:
+
+ ▪ Export all account settings to a plist file.
+ ▪ Import one or more account settings from a plist file.
+
+
+How to install Import Export Accounts
+
+Place this script in your user home folder in this location where " ~ "
+denotes your home folder:
+
+~/Library/Application Support/Microsoft/Office/Outlook Script Menu Items
+
+To view the ~/Library folder, hold the Option key while selecting
+Go menu --> Library in the Finder.
+
+How to use Import Export Accounts
+
+To save all account settings, select "Import Export Accounts 1.0" from the Script menu in Outlook and click the "Export" button. Choose a location to save the account settings file.
+
+To import one or more account settings from the file, select "Import Export Accounts" from the Script menu in Outlook and click the "Import" button. Select the account settings file and choose one or more (use the Shift and Command keys to select multiple items) accounts.
+
+Support
+
+E-mail me at bill@officeformachelp.com. I will make every effort to answer questions about the script and work to correct bugs you may find.
+
+
+Change log
+
+1.0	Created the Import Export Accounts 1.0 script.
+	Export all account settings to a plist file.
+	Import one or more account settings from a plist file.
